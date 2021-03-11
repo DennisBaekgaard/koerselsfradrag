@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+body {
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  font-size: 64px;
+  color: #252525;
+}
+
+p {
+  font-size: 18px;
+  color: #252525;
+  margin: 24px;
+}
+
+.car {
+  font-size: 148px;
+}
+label {
+  font-size: 16px;
+}
